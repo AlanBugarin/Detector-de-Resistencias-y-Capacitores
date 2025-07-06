@@ -1,7 +1,4 @@
-/*
-    Example code written during the Lab Session given only as reference, 
-    Please update the function to your own implementation in order to compile.
-*/
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "UART.h"
